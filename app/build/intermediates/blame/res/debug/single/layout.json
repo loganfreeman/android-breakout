@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\projects\\android\\android-breakout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main1.xml",
+        "source": "E:\\projects\\android\\android-breakout\\app\\src\\main\\res\\layout\\main1.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\android-breakout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "E:\\projects\\android\\android-breakout\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\android-breakout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\projects\\android\\android-breakout\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\android-breakout\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "E:\\projects\\android\\android-breakout\\app\\src\\main\\res\\layout\\main2.xml"
+    }
+]
